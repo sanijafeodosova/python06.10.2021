@@ -1,0 +1,4 @@
+Rozes ir sarkanas,
+Rudens ir klāt.
+Python ir jauks.
+Vai tu esi jautri?
